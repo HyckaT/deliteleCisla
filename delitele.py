@@ -1,2 +1,2 @@
 cislo = 15
-cislo2 = 7
+cislo2 = 8
